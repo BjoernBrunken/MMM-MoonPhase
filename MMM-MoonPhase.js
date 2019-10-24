@@ -236,6 +236,8 @@ Module.register("MMM-MoonPhase", {
 		return {
 			en: "translations/en.json",
 			de: "translations/de.json",
+			fr: "translations/fr.json",
+			sv: "translations/sv.json",
 			es: "translations/es.json"
 		};
 	},
